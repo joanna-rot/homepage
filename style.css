@@ -13,3 +13,24 @@ section {
 //p {
   background: rgb(250, 174, 147);
 }
+.czerwony{
+  color: red;
+}
+#szkolenie{
+  color: blue;
+}
+
+h3{
+  color: rgb(230, 158, 193) !important;
+}
+
+a{
+  color: green;
+}
+section a {
+  color: orange;
+}
+
+.my_article p {
+  background-color: yellow;
+}
